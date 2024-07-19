@@ -1,0 +1,161 @@
+.genDiv {
+  padding-right: 30px;
+  padding-top: 50px;
+}
+
+.firstMainDiv {
+  display: flex;
+  flex: row;
+}
+
+.f-Div {
+  padding-right: 10px;
+}
+.f-SubDiv img {
+  width: 750px;
+}
+.s-SubDiv {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  padding-top: 15px;
+}
+
+.secondMainDiv {
+  background-color: hsl(240, 100%, 5%);
+  color: white;
+  padding-left: 12px;
+  padding-right: 12px;
+  width: 730px;
+  text-align: justify;
+}
+
+.secondMainDiv h2 {
+  color: hsl(35, 77%, 62%);
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.links {
+  color: white;
+  text-decoration: none;
+}
+.links:hover {
+  color: hsl(35, 77%, 62%);
+  cursor: pointer;
+}
+.secondMainDiv p {
+  color: hsl(233, 8%, 79%);
+  padding-bottom: 25px;
+}
+
+h1 {
+  text-align: justify;
+}
+
+.bright {
+  padding-left: 25px;
+}
+.bright h1 {
+  text-align: left;
+  font-weight: 800;
+  font-size: 50px;
+}
+
+.dive {
+  padding-left: 80px;
+  padding-right: 20px;
+  text-align: left;
+}
+
+.dive p {
+  text-align: start;
+  color: hsl(233, 8%, 79%);
+  font-size: 15px;
+  line-height: 2;
+}
+
+.dive button {
+  border: none;
+  background-color: hsl(5, 85%, 63%);
+  padding: 10px 50px 10px 50px;
+}
+
+.dive button:hover {
+  background-color: hsl(240, 100%, 5%);
+  color: white;
+}
+
+.thirdMainDiv div {
+  display: flex;
+}
+.thirdMainDiv {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.one img {
+  width: 95px;
+  height: 150px;
+}
+.one {
+  width: 300px;
+  overflow: hidden;
+  text-align: left;
+  margin-left: 5px;
+}
+
+.one-2 img {
+  width: 95px;
+  height: 150px;
+}
+.one-2 {
+  width: 300px;
+  overflow: hidden;
+  text-align: left;
+  margin-left: 65px;
+}
+
+.one-3 img {
+  width: 95px;
+  height: 150px;
+}
+.one-3 {
+  width: 300px;
+  overflow: hidden;
+  text-align: left;
+  margin-left: 120px;
+}
+
+.oneMini {
+  display: flex;
+  flex-direction: column;
+  margin: auto 20px;
+}
+
+.oneMini h2 {
+  color: hsl(5, 85%, 63%);
+}
+
+.oneMini h4 {
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+.oneMini h4:hover {
+  color: hsl(5, 85%, 63%);
+  cursor: pointer;
+}
+
+.oneMini p {
+  font-size: 12px;
+  color: hsl(233, 8%, 79%);
+  margin-top: 20px;
+}
+
+
+
+
+

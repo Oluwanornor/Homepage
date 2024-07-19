@@ -1,0 +1,25 @@
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.link:hover {
+  color: hsl(35, 77%, 62%);
+}
+
+.nav{
+    display: flex;
+    gap: 40px;
+}
+
+@media only screen and (max-width : 375px) {
+ .link {
+    position: absolute;
+    width: 100%;
+    background: black;
+    color: white;
+    left: 0;
+    top: 100%;
+    text-align: center;
+  }
+}
